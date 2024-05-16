@@ -9,7 +9,7 @@ Run the [following commands](https://gitlab.com/etherlab.org/ethercat/-/blob/sta
 
 ```bash
 ./bootstrap
-./configure # or, on the ZOTAC: ./configure --enable-r8169 --with-r8169-kernel
+./configure # or, on the ZOTAC: ./configure --enable-r8169 
 make all modules
 ```
 
